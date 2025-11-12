@@ -67,7 +67,7 @@ Follow these steps precisely to set up your environment.
 
 ### **2\. Clone the Repository**
 
-git clone \<your-repository-url\>  
+git clone \<https://github.com/blackhat-coder21/bda_project_generic3.git>  
 cd bda\_project\_generic3
 
 ### **3\. Set Up Kafka**
